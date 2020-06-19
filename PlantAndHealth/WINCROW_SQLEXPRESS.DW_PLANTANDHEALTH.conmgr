@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WINCROW_SQLEXPRESS.DW_PLANTANDHEALTH"
+  DTS:DTSID="{D616B358-B7C4-45EC-96C4-5D30DE3EFDF7}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WINCROW\SQLEXPRESS;Initial Catalog=DW_PLANTANDHEALTH;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
